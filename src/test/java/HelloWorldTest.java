@@ -1,6 +1,6 @@
-package test;
+package test.java;
 
-import code.HelloWorld;
+import main.java.HelloWorld;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

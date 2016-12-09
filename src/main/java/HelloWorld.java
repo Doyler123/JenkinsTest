@@ -1,4 +1,4 @@
-package code;
+package main.java;
 
 /**
  * Created by jdoyle on 07/12/2016.
