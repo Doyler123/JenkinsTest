@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7f24a52-d179-4522-b2c3-f66002b51243" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloWorld.iws" />
@@ -63,7 +62,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1481280799106" expanded="true" signature="30579:30627" ph="..." />
+                <marker date="1481280843899" expanded="true" signature="31015:31063" ph="..." />
               </folding>
             </state>
           </provider>
@@ -474,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481280823871</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="maven tidy up">
+      <created>1481280846758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1481280846758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -551,7 +557,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1481280799106" expanded="true" signature="30579:30627" ph="..." />
+            <marker date="1481280843899" expanded="true" signature="31015:31063" ph="..." />
           </folding>
         </state>
       </provider>
@@ -561,7 +567,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1481280799106" expanded="true" signature="30579:30627" ph="..." />
+            <marker date="1481280843899" expanded="true" signature="31015:31063" ph="..." />
           </folding>
         </state>
       </provider>
