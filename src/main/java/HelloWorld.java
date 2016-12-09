@@ -6,6 +6,6 @@ package main.java;
 public class HelloWorld {
     //test method
     public static String message(){
-        return "hello world!";
+        return "hello world";
     }
 }
